@@ -1,4 +1,4 @@
-<h1>Hello! My name is Eileen!<a href="https://www.linkedin.com/in/eher97/"></a>☺</h1>
+<h1>Hello! My name is Eileen!<a href="https://www.linkedin.com/in/eher97/"></a> ☺ </h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
