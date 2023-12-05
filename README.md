@@ -3,7 +3,7 @@
 <h2>💻Engineering Journal💻:</h2>
 
 - <b>My journal contains information about my IT projects: </b>
-  - [💻Journal💻](https://github.com/eher97/Engineering-Journal)
+- [💻Journal💻](https://github.com/eher97/Engineering-Journal)
 
 <h2>🤳Connect with me via LinkedIn:</h2>
 
